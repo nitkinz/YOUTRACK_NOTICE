@@ -1,0 +1,14 @@
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\YOUTRACK_NOTICE.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\YOUTRACK_NOTICE.exe
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\YOUTRACK_NOTICE.pdb
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\EasyHttp.dll
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\JsonFx.dll
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\log4net.dll
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\YouTrackSharp.dll
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\EasyHttp.pdb
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\JsonFx.xml
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\log4net.xml
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\bin\Debug\YouTrackSharp.pdb
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\obj\Debug\YOUTRACK_NOTICE.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\obj\Debug\YOUTRACK_NOTICE.exe
+c:\users\dima\documents\visual studio 2015\Projects\YOUTRACK_NOTICE\YOUTRACK_NOTICE\obj\Debug\YOUTRACK_NOTICE.pdb
